@@ -1,1 +1,2 @@
 # Home-Credit-Default-Risk
+<h3> This project was developed as a team of 4. The project involves determining which loan applicants deserve a loan based on their employment history, number of dependents, previous loan applications, etc. This project is for those applicants who may not necessarily have a good credit rating, but through use of machine learning models and features described above, we try to classify a risk as a safe bet for loan or not. </h3>
